@@ -39,7 +39,7 @@ const Navbar = () => {
 
                 <div className={nav ? 'fixed top-0 w-[70%] sm:w-[36%] md:w-[32%] lg:w-[28%]   right-0 h-screen bg-white z-10 transition-all ease-in-out duration-700' : 'fixed top-0 w-[70%] sm:w-[36%] md:w-[32%] lg:w-[28%]   left-[100%] h-screen bg-white z-10 transition-all ease-in-out duration-700' }>
                     <AiOutlineClose onClick={() => setNav(!nav)} size={30} className=" absolute text-yellow-600 left-4 top-8 cursor-pointer" />
-                    <img className="w-16 ml-52 mt-4" src="/assets/images/logo.png" alt="" />
+                    <img className="w-16 ml-48 mt-4" src="/assets/images/logo.png" alt="" />
 
                     <nav>
                         <ul className="flex flex-col gap-8 mt-16">
