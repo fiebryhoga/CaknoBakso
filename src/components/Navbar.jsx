@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
         <div className=" max-w-[1640px] mx-auto flex justify-between items-center
         p-4 sm:px-8 md:px-12">
-            <div className=" flex items-center mx-auto justify-between gap-32 sm:gap-12 md:gap-12 lg:gap-20">
+            <div className=" flex items-center mx-auto justify-between gap-28 sm:gap-12 md:gap-12 lg:gap-20">
 
                 <button className="flex sm:hidden">
                     <BsFillCartFill size={25} className="text-yellow-600" />
