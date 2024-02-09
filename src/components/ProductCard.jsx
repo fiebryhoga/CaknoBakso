@@ -31,7 +31,7 @@ const ProductCard = () => {
     return (
         <div className="flex flex-col justify-center p-4 py-12 sm:px-8 md:px-12 items-center w-screen gap-10">
             <div className="max-w-[1640px] mx-auto grid w-full sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                <TopMenu gambar={"/assets/images/baksoTahu.jpg"} bakso={'Bakso Iga'} deskripsi={'iga enak poll'} />
+                <TopMenu gambar={"/assets/images/BaksoTahu.jpg"} bakso={'Bakso Iga'} deskripsi={'iga enak poll'} />
                 <TopMenu gambar={"/assets/images/baksoCabe.jpg"} bakso={'Bakso Iga'} deskripsi={'iga enak poll'} />
                 <div className='sm:hidden lg:flex'>
                 <TopMenu gambar={"/assets/images/baksoBakar.jpg"} bakso={'Bakso Iga'} deskripsi={'iga enak poll'} />
