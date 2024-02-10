@@ -5,11 +5,7 @@ const TopMenu = (props) => {
     return (
         <div className="rounded-xl relative shadow-md shadow-slate-200">
             <div className="containerGambar flex justify-center items-center rounded-t-lg w-full bg-black">
-                {/* <div className='bg-black/90 absolute object-cover h-[160px] md:h-[200px] lg:h-[230px] w-full  rounded-t-lg'>
-                    <button className="flex">
-                        <BsFillCartFill size={25} className="text-yellow-600" />
-                    </button>
-                </div> */}
+                
                 <img
                     className=" object-cover max-h-[160px] w-full md:max-h-[200px] lg:max-h-[230px] rounded-t-lg"
                     src={props.gambar}
