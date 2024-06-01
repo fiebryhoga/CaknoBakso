@@ -4,6 +4,7 @@ import Home from "./components/Home";
 import Keunggulan from "./components/Keunggulan";
 import ProductCard from "./components/ProductCard";
 import Menu from "./components/Menu";
+import Pesanan from "./components/Pesanan";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Keunggulan />
       {/* <ProductCard/> */}
       <Menu />
+      <Pesanan />
       
     </div>
   );

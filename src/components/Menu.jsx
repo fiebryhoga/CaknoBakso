@@ -115,7 +115,7 @@ const Menu = () => {
                     {menu.map((item, index) => (
 
 
-                        <div key={index} className="border shadow-lg duration-700 rounded-lg ">
+                        <div key={index} className="border shadow-lg duration-700 rounded-lg hover:scale-105">
                             <img
                                 src={item.gambar}
                                 alt={item.nama}
@@ -123,7 +123,7 @@ const Menu = () => {
                             />
                             <div className="flex justify-between px-2 py-4">
                                 <p className="font-bold text-xs sm:text-sm">{item.nama}</p>
-                                <span className="font-bold text-xs sm:text-sm rounded-lg p-1 px-2">
+                                <span className="font-bold text-xs sm:text-sm rounded-lg p-1 px-2 ml-6">
                                     {item.harga}
                                 </span>
                             </div>

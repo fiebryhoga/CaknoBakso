@@ -5,7 +5,7 @@ const Keunggulan = () => {
         <div className='max-w-[1640px] m-auto justify-center p-4 sm:px-8 md:px-12 items-center w-screen gap-10'>
             <h1 className='text-center text-orange-600 font-bold text-2xl'>Bakso Cak No</h1>
 
-            <div className="grid sm:grid-cols-2 md:grid-cols-3 relative justify-center items-center pt-6 gap-8 sm:gap-2">
+            <div className="grid sm:grid-cols-2 md:grid-cols-3 relative justify-center items-center pt-6 gap-8 sm:gap-2 md:gap-0">
                 <div className='flex gap-4 flex-col items-center'>
                     <img className='max-h-[160px] sm:max-h-[190px] md:max-h-[220px]' src="/assets/images/delivery.png" alt="" />
                     <p className='text-yellow-600 font-bold text-center '>Free Delivery</p>

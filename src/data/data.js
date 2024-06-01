@@ -1,5 +1,4 @@
 export const data = [
-    // Kategori: Bakso
     {
         id: 1,
         nama: 'Bakso Sapi',
@@ -158,8 +157,8 @@ export const data = [
     },
     {
         id: 17,
-        nama: 'Bakso Guling',
-        gambar: '/assets/images/baksoGuling.jpg',
+        nama: 'Bakso Pedas',
+        gambar: '/assets/images/baksoPedas.jpg',
         kategori: 'bakso',
         harga: '55k',
         kategoriHarga: '50K',
@@ -242,8 +241,8 @@ export const data = [
     },
     {
         id: 26,
-        nama: 'Jus Jeruk',
-        gambar: '/assets/images/jusJeruk.jpg',
+        nama: 'Jus Sirsak',
+        gambar: '/assets/images/jusSirsak.jpg',
         kategori: 'minuman',
         harga: '15k',
         kategoriHarga: '10K',
