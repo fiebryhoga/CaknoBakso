@@ -27,36 +27,8 @@ export const data = [
 
     },
     // Kategori: Camilan
-    {
-        id: 4,
-        nama: 'Pisang Goreng',
-        gambar: '/assets/images/pisangGoreng.jpg',
-        kategori: 'camilan',
-        harga: '15k',
-        kategoriHarga: '10K',
-
-
-    },
-    {
-        id: 5,
-        nama: 'Tahu Sumedang',
-        gambar: '/assets/images/tahuSumedang.jpg',
-        kategori: 'camilan',
-        harga: '10k',
-        kategoriHarga: '10K',
-
-
-    },
-    {
-        id: 6,
-        nama: 'Singkong Goreng',
-        gambar: '/assets/images/singkongGoreng.jpg',
-        kategori: 'camilan',
-        harga: '12k',
-        kategoriHarga: '10K',
-
-
-    },
+    
+    
     // Kategori: Minuman
     {
         id: 7,
@@ -89,33 +61,7 @@ export const data = [
 
     },
     // Kategori: Paket
-    {
-        id: 10,
-        nama: 'Paket Hemat 1 (Bakso Sapi + Es Teh)',
-        gambar: '/assets/images/paketHemat1.jpg',
-        kategori: 'paket',
-        harga: '35k',
-        kategoriHarga: '30K',
-
-    },
-    {
-        id: 11,
-        nama: 'Paket Hemat 2 (Bakso Iga + Es Jeruk)',
-        gambar: '/assets/images/paketHemat2.jpg',
-        kategori: 'paket',
-        harga: '40k',
-        kategoriHarga: '40K',
-
-    },
-    {
-        id: 12,
-        nama: 'Paket Spesial (Bakso Urat + Es Campur)',
-        gambar: '/assets/images/paketSpesial.jpg',
-        kategori: 'paket',
-        harga: '45k',
-        kategoriHarga: '40K',
-
-    },
+    
     // Tambahan data
     {
         id: 13,
@@ -136,16 +82,7 @@ export const data = [
 
 
     },
-    {
-        id: 15,
-        nama: 'Keripik Tempe',
-        gambar: '/assets/images/keripikTempe.jpg',
-        kategori: 'camilan',
-        harga: '10k',
-        kategoriHarga: '10K',
-
-
-    },
+    
     {
         id: 16,
         nama: 'Es Kopyor',
